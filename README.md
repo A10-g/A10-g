@@ -4,9 +4,8 @@ I'm Abhishek Gupta
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Android and Github
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with blogging
 - 💬 Ask me about programming 
 - 📫 How to reach me: via github and twitter
 - 😄 Pronouns: he
-- 
 -->
