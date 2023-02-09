@@ -9,3 +9,5 @@ I'm Abhishek Gupta
 - 📫 How to reach me: via github and twitter
 - 😄 Pronouns: he
 -->
+
+![snake gif](https://github.com/A10-g/A10-g/blob/output/github-contribution-grid-snake.gif)
