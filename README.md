@@ -2,12 +2,12 @@
 ### Hi there 👋
 I'm Abhishek Gupta
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Android and Github
+- 🌱 I’m currently learning JavaScript and Web Development
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with blogging
+- 🤔 I’m looking for help with blogging 
 - 💬 Ask me about programming 
 - 📫 How to reach me: via github and twitter
 - 😄 Pronouns: he
--->
+
 
 ![snake gif](https://github.com/A10-g/A10-g/blob/output/github-contribution-grid-snake.gif)
