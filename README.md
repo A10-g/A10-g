@@ -4,7 +4,7 @@ I'm Abhishek Gupta
 - 🔭 I’m currently working on Android and Technical Writing.
 - 🌱 I’m currently learning JavaScript and Web Development
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with blogging 
+- 🤔 I’m looking for help with writing
 - 💬 Ask me about programming 
 - 📫 How to reach me: via github,Twitter and LinkedIn 
 - 😄 Pronouns: he
