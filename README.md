@@ -10,4 +10,4 @@ I'm Abhishek Gupta
 - 😄 Pronouns: he
 
 
-![snake gif](https://github.com/A10-g/A10-g/blob/output/github-contribution-grid-snake.gif)
+
