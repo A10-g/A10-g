@@ -81,7 +81,7 @@ I am an **Assistant System Engineer** with over 1 year of professional experienc
 ### 🏆 Achievements
 
 *   **Coding:** Solved **700+ problems** on various coding platforms.
-*   **Writing:** Published articles with **95K+ views** on GeeksforGeeks.
+*   **Writing:** Published articles with **100K+ views** on GeeksforGeeks.
 *   **Competitions:** Ranked **3rd** in a Coding Contest and **1st** at University Level (First Year).
 *   **Education:** Bachelor's in Computer Engineering (9.21 CGPA).
 
