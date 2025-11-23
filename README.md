@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abhishek Rajkumar Gupta 👋
 
-## Assistant System Engineer | Backend Developer
+## Backend Developer | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-gupta-95275b233)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ag10022101)
