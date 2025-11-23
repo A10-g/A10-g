@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Abhishek Rajkumar Gupta 👋
+# Hi there, I'm Abhishek Gupta 👋
 
 ## Backend Developer | Problem Solver
 
