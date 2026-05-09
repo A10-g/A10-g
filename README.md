@@ -2,7 +2,9 @@
 
 # Hi there, I'm Abhishek Gupta 👋
 
-## Backend Developer | Problem Solver
+## 🚀 Backend Engineer | AI Systems Builder | Microservices
+
+Building scalable backend systems + integrating AI (LLMs, automation, intelligent workflows)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-gupta-95275b233)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ag10022101)
@@ -12,85 +14,128 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+## 🧠 About Me
 
-I am an **Assistant System Engineer** with over 1 year of professional experience in **backend development** and **microservices architecture**. I specialize in developing and optimizing **REST APIs**, migrating monolithic systems to microservices, and enhancing system scalability. My technical foundation is strong in **Java 8**, **Spring Boot**, and **PostgreSQL**, backed by a deep understanding of data structures, algorithms, and database management systems.
+Backend Engineer with **1.9+ years of experience** building scalable **Java microservices** in the banking domain.
+
+Recently focused on:
+- ⚡ **AI-powered backend systems**
+- 🤖 **LLM integrations & agentic workflows**
+- 🧩 Designing **intelligent APIs + automation pipelines**
+
+I enjoy combining **solid backend engineering** with **AI capabilities** to build systems that are not just scalable — but **smart**.
 
 ---
 
-### 🛠️ Technical Skills
+## ⚙️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<br>
+### 💻 Backend & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Backend**
-<br>
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-blue?style=for-the-badge&logo=microservices&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-**Databases**
-<br>
+### 🧠 AI & Emerging Tech
+![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge)
+![Agent Systems](https://img.shields.io/badge/Agentic%20AI-blueviolet?style=for-the-badge)
+
+### 🗄️ Databases & Messaging
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache Derby](https://img.shields.io/badge/Apache%20Derby-E23237?style=for-the-badge&logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Tools & Platforms**
-<br>
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-</div>
+![IntelliJ](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-### 💼 Professional Experience
+## 💼 Experience
 
-**Assistant System Engineer** @ **Tata Consultancy Services** (Mumbai)
-*Jul 2024 - Present*
+### 🏢 Tata Consultancy Services (TCS)
+**Assistant System Engineer** | Jul 2024 – Present
 
-*   Developed **REST APIs** for a core banking microservice, improving system integration.
-*   Reduced system dependencies by **60%** by migrating a banking product from monolithic architecture to microservices, significantly enhancing scalability and deployment flexibility.
-
----
-
-### 🚀 Projects
-
-**Smart Society App** | *Vodafone Intelligent Solutions*
-*   Developed a society management application addressing daily operational challenges.
-*   Designed role-based UIs for diverse user levels.
-*   Integrated a **Panic Alert** feature for emergency safety.
-*   **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Online Grocery Ordering Application**
-*   Built a full-stack application with clear separation of concerns.
-*   Managed user data using **Apache Derby Database**.
-*   **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- Built and optimized **high-performance REST APIs** for core banking systems  
+- Migrated monolithic architecture → **microservices**, reducing dependencies by **60%**  
+- Improved API performance by **~30%**, enhancing system responsiveness  
+- Worked on **event-driven systems using Kafka** for scalable communication  
 
 ---
 
-### 🏆 Achievements
+## 🚀 AI + Backend Projects
 
-*   **Coding:** Solved **700+ problems** on various coding platforms.
-*   **Writing:** Published articles with **100K+ views** on GeeksforGeeks.
-*   **Competitions:** Ranked **3rd** in a Coding Contest and **1st** at University Level (First Year).
-*   **Education:** Bachelor's in Computer Engineering (9.21 CGPA).
+### 🤖 AI Triage System (Hackathon Project)
+- Built an intelligent system to **classify and route queries using LLMs**
+- Designed **AI orchestration layer** for structured decision-making
+- Focused on **reliability, latency, and fallback handling**
+- Simulates real-world **AI in production backend systems**
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 AI-Enhanced Backend Systems
+- Integrated **LLMs into backend workflows**
+- Built APIs that:
+  - Process natural language input  
+  - Automate decision-making  
+  - Generate structured outputs  
+
+---
+
+### 🏗️ Microservices + AI Architecture
+- Designed scalable backend architecture combining:
+  - Microservices  
+  - AI services  
+  - Async processing  
+- Inspired by real-world distributed systems
+
+---
+
+## 📦 Other Projects
+
+### 🏢 Smart Society App
+- Role-based society management system  
+- Built **panic alert feature** for emergency handling  
+- Focused on usability + real-world problem solving  
+
+---
+
+### 🛒 Online Grocery System
+- Full-stack application with modular architecture  
+- Implemented database handling using SQL  
+
+---
+
+## 🏆 Achievements
+
+- 🧠 Solved **700+ DSA problems**
+- ✍️ **100K+ views** on GeeksforGeeks articles
+- 🥇 Ranked **1st at University Level**
+- 🥉 Ranked **3rd in Coding Contest**
+- 🎓 CGPA: **9.21**
+
+---
+
+## 📊 GitHub & Contributions
 
 <div align="center">
   <a href="https://holopin.io/@abhishek10g">
-    <img src="https://holopin.io/api/user/board?user=abhishek10g" alt="@abhishek10g's Holopin board" />
+    <img src="https://holopin.io/api/user/board?user=abhishek10g" />
   </a>
 </div>
+
+---
+
+## ⚡ What I'm Currently Doing
+
+- 🔨 Building **AI-powered backend systems**
+- 📚 Exploring **LLM orchestration & agentic AI**
+- 🚀 Preparing for **SDE-1 / Backend / AI Engineering roles**
+
+---
+
+## 🤝 Let's Connect
+
+If you're working on **backend systems, AI infra, or scalable architectures**, let's connect!
