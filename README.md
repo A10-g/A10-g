@@ -1,141 +1,113 @@
 <div align="center">
 
-# Hi there, I'm Abhishek Gupta 👋
+# Abhishek Gupta
 
-## 🚀 Backend Engineer | AI Systems Builder | Microservices
+### Backend Engineer · AI Systems Builder · Microservices
 
-Building scalable backend systems + integrating AI (LLMs, automation, intelligent workflows)
+*Building scalable backend systems + integrating AI — LLMs, automation, intelligent workflows*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-gupta-95275b233)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ag10022101)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:abhi1937k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-95275b233)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ag10022101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a10--g.github.io-22c55e?style=flat-square&logo=github&logoColor=white)](https://a10-g.github.io)
+[![Email](https://img.shields.io/badge/Email-abhi1937k%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhi1937k@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Backend Engineer with **1.9+ years of experience** building scalable **Java microservices** in the banking domain.
+Backend Engineer with **1.9+ years** building scalable **Java microservices** in the banking domain at **Tata Consultancy Services**.
 
-Recently focused on:
-- ⚡ **AI-powered backend systems**
-- 🤖 **LLM integrations & agentic workflows**
-- 🧩 Designing **intelligent APIs + automation pipelines**
+I combine **solid backend fundamentals** with **AI capabilities** to build systems that aren't just scalable — but *smart*.
 
-I enjoy combining **solid backend engineering** with **AI capabilities** to build systems that are not just scalable — but **smart**.
+**Currently focused on:**
+- ⚡ AI-powered backend systems & agentic workflows
+- 🤖 LLM integrations & intelligent automation pipelines
+- 🧩 SDE-1 / Backend / AI Engineering roles across India + Remote
 
 ---
 
-## ⚙️ Tech Stack
+## 🔥 Featured Project — AI Job Search Automation Pipeline
 
-### 💻 Backend & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+> *An always-on AI system that evaluates job descriptions, scores them against my profile, and delivers insights via Telegram — running 24/7 on a cloud VM at ₹0/month.*
 
-### 🧠 AI & Emerging Tech
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![AI Integration](https://img.shields.io/badge/AI%20Integration-purple?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge)
-![Agent Systems](https://img.shields.io/badge/Agentic%20AI-blueviolet?style=for-the-badge)
+```
+Telegram → Bot → OpenCode CLI → Claude API → career-ops → Response
+                                      ↓
+                          Oracle Cloud VM (24/7)
+```
 
-### 🗄️ Databases & Messaging
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+**What it does:**
+- 📊 Scores JDs across **10+ parameters** (tech fit, role match, compensation, growth) with an A–F grade
+- 🧠 Generates gap analysis, tailored resume bullets, and STAR interview prep
+- 📱 Mobile-first: paste a JD → get a full evaluation in **< 2 minutes** via Telegram
+- ☁️ Runs on **Oracle Cloud Free Tier** — works even when my laptop is off
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**Engineering highlights:** agent-based evaluation workflow · systemd process persistence · 30+ hiring portals configured (India + Remote) · Node.js v12→v20 migration · SSH key hardening on Windows
+
+**Stack:** `Java` `Node.js` `Oracle Cloud` `Linux` `systemd` `Telegram Bot API` `OpenCode CLI` `Shell Scripting` `LLMs`
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Tata Consultancy Services (TCS)
-**Assistant System Engineer** | Jul 2024 – Present
+### Tata Consultancy Services — Assistant System Engineer
+`Jul 2024 – Present` · Mumbai
 
-- Built and optimized **high-performance REST APIs** for core banking systems  
-- Migrated monolithic architecture → **microservices**, reducing dependencies by **60%**  
-- Improved API performance by **~30%**, enhancing system responsiveness  
-- Worked on **event-driven systems using Kafka** for scalable communication  
-
----
-
-## 🚀 AI + Backend Projects
-
-### 🤖 AI Triage System (Hackathon Project)
-- Built an intelligent system to **classify and route queries using LLMs**
-- Designed **AI orchestration layer** for structured decision-making
-- Focused on **reliability, latency, and fallback handling**
-- Simulates real-world **AI in production backend systems**
+- Developed **high-performance REST APIs** for core banking systems serving large-scale transaction volumes
+- Migrated monolithic architecture to **microservices**, reducing system dependencies by **60%**
+- Improved API response time by **~30%** through targeted optimization
+- Designed **event-driven workflows using Apache Kafka** for reliable async communication
 
 ---
 
-### 🧠 AI-Enhanced Backend Systems
-- Integrated **LLMs into backend workflows**
-- Built APIs that:
-  - Process natural language input  
-  - Automate decision-making  
-  - Generate structured outputs  
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Backend** | Java · Spring Boot · Microservices · REST API · Hibernate |
+| **Messaging & DB** | Apache Kafka · PostgreSQL · Oracle DB |
+| **AI & LLMs** | LLM Integration · Prompt Engineering · Agentic Workflows |
+| **Infrastructure** | Linux · Oracle Cloud · systemd · Shell Scripting |
+| **Tools** | Git · GitHub · IntelliJ IDEA · PowerShell |
 
 ---
 
-### 🏗️ Microservices + AI Architecture
-- Designed scalable backend architecture combining:
-  - Microservices  
-  - AI services  
-  - Async processing  
-- Inspired by real-world distributed systems
+## 🚀 Other Projects
 
----
+**Smart Society App** — Role-based society management with a panic alert emergency feature
 
-## 📦 Other Projects
+**Online Grocery System** — Full-stack app with modular architecture and SQL-backed data handling
 
-### 🏢 Smart Society App
-- Role-based society management system  
-- Built **panic alert feature** for emergency handling  
-- Focused on usability + real-world problem solving  
-
----
-
-### 🛒 Online Grocery System
-- Full-stack application with modular architecture  
-- Implemented database handling using SQL  
+**AI Triage System** *(Hackathon)* — LLM-based query classifier and router with orchestration layer, fallback handling, and latency optimizations
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Solved **700+ DSA problems**
-- ✍️ **100K+ views** on GeeksforGeeks articles
-- 🥇 Ranked **1st at University Level**
-- 🥉 Ranked **3rd in Coding Contest**
-- 🎓 CGPA: **9.21**
+| | |
+|---|---|
+| 🧠 | **700+ DSA problems** solved (LeetCode + GFG) |
+| ✍️ | **100K+ views** on GeeksforGeeks |
+| 🥇 | **1st rank** at University Level |
+| 🥉 | **3rd place** in Coding Contest |
+| 🎓 | **CGPA 9.21** |
 
 ---
 
-## 📊 GitHub & Contributions
+## 📊 Holopin Badges
 
 <div align="center">
   <a href="https://holopin.io/@abhishek10g">
-    <img src="https://holopin.io/api/user/board?user=abhishek10g" />
+    <img src="https://holopin.io/api/user/board?user=abhishek10g" alt="Holopin board" />
   </a>
 </div>
 
 ---
 
-## ⚡ What I'm Currently Doing
+## Let's Connect
 
-- 🔨 Building **AI-powered backend systems**
-- 📚 Exploring **LLM orchestration & agentic AI**
-- 🚀 Preparing for **SDE-1 / Backend / AI Engineering roles**
+Working on **backend systems, AI infra, or scalable architectures**? I'd love to connect.
 
----
-
-## 🤝 Let's Connect
-
-If you're working on **backend systems, AI infra, or scalable architectures**, let's connect!
+📧 abhi1937k@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-95275b233) · 🌐 [Portfolio](https://a10-g.github.io)
